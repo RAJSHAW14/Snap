@@ -1,0 +1,530 @@
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for <>f__AnonymousType0`2: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.MysqlxReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.ClientMessages: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.ServerMessages: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Ok: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Error: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Sql.MysqlxSqlReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Sql.StmtExecute: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Sql.StmtExecuteOk: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Session.MysqlxSessionReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Session.AuthenticateStart: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Session.AuthenticateContinue: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Session.AuthenticateOk: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Session.Reset: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Session.Close: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.MysqlxResultsetReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.ContentType_BYTES: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.ContentType_DATETIME: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.FetchDoneMoreOutParams: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.FetchDoneMoreResultsets: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.FetchDone: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.ColumnMetaData: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Resultset.Row: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Notice.MysqlxNoticeReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Notice.Frame: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Notice.Warning: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Notice.SessionVariableChanged: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Notice.SessionStateChanged: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.MysqlxExprReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.Expr: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.Identifier: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.DocumentPathItem: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.ColumnIdentifier: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.FunctionCall: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.Operator: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.Object: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expr.Array: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expect.MysqlxExpectReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expect.Open: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Expect.Close: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Datatypes.MysqlxDatatypesReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Datatypes.Scalar: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Datatypes.Object: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Datatypes.Array: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Datatypes.Any: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.MysqlxCrudReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.DataModel: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.ViewAlgorithm: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.ViewSqlSecurity: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.ViewCheckOption: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Column: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Projection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Collection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Limit: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Order: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.UpdateOperation: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Find: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Insert: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Update: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.Delete: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.CreateView: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.ModifyView: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Crud.DropView: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Connection.MysqlxConnectionReflection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Connection.Capability: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Connection.Capabilities: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Connection.CapabilitiesGet: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Connection.CapabilitiesSet: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for Mysqlx.Connection.Close: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.SessionState: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Collection: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.DatabaseObject: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Schema: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Session: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.InternalRowResult: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.Row: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.RowResult: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.SqlResult: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.Table: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.TableDeleteStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.TableInsertStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.TableSelectStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Relational.TableUpdateStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.AddStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.CreateCollectionIndexStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.CreateIndexParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.CrudStatement`1: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.DocResult: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.FindParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.FindStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.ModifyStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.RemoveStatement: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.CRUD.UpdateSpec: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Common.BaseResult: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Common.BufferingResult`1: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Common.FilterParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Common.QueryStatement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.XDevAPI.Common.Result: type has no family visible contructors.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Sessions.InternalSession: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Sessions.QueueTaskScheduler: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Sessions.XInternalSession: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.RoutingServices.DefaultRoutingService: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.RoutingServices.RoutingServiceBase: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.ValueDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.XProtocol: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.BitDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.ByteDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.DecimalDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.NoticeType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.RowLock: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.XpluginStatementCommand: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.ExprParser: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.ExprUtil: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.ExprUnparser: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.FloatDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.IntegerDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.SetDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.XDateTimeDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.XTimeDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Protocol.X.XValueDecoderFactory: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Failover.FailoverGroup: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Failover.FailoverManager: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Failover.FailoverMethod: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Failover.SequentialFailoverGroup: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Failover.XServer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.DataAccess.ConnectionMode: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.DataAccess.AuthenticationMode: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.DataAccess.OS: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Data.CollationMap: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Communication.CommunicationPacket: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Communication.ClientMessageId: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Communication.ServerMessageId: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Communication.XPacketReaderWriter: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Common.Tools: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Security.ExternalAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Security.MySQL41AuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySqlX.Security.PlainAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Web.Security.Runtime: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Resources: type is compiler generated.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.ResourcesX: type is compiler generated.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MetaData: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlBinary: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlBit: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlByte: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlDateTime: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlDecimal: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlDouble: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlGeometry: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlGuid: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlInt16: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlInt32: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlInt64: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlSingle: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlString: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlTimeSpan: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlUByte: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlUInt16: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlUInt32: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.MySqlUInt64: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Types.IMySqlValue: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.Cache`2: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.ContextString: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.LowResolutionStopwatch: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.MyNetworkStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.MySqlTokenizer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.NativeMethods: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.SharedMemory: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.SharedMemoryStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.Platform: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.QueryNormalizer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.Token: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.TokenType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.SHA1Hash: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.Ssl: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.StreamCreator: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.UnixEndPoint: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.Common.DBVersion: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlBulkLoaderPriority: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlBulkLoaderConflictOption: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.CharSetMap: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.CharacterSet: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlCommand: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.CompressedStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConnection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlInfoMessageEventHandler: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.CommandTimer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Crypt: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlDataReader: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Driver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.IDriver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlException: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ColumnFlags: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlField: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.SystemPerformanceMonitor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlCommandBuilder: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlDataAdapter: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlRowUpdatingEventHandler: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlRowUpdatedEventHandler: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlRowUpdatingEventArgs: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlRowUpdatedEventArgs: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlClientPermission: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlClientPermissionAttribute: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConfiguration: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.AuthenticationPluginConfigurationElement: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.InterceptorConfigurationElement: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.GenericConfigurationElementCollection`1: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlHelper: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlParameter: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlParameterCollection: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlTransactionScope: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlPromotableTransaction: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.DriverTransactionManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlSecurityPermission: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.CommandInterceptor: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Interceptor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ISSchemaProvider: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlClientFactory: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConnectionStringBuilder: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConnectionStringOption: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConnectionStringOptionCollection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ClientFlags: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ServerStatusFlags: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.DBCmd: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlDbType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Field_Type: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConnectionProtocol: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlSslMode: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlDriverType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlCertificateStoreLocation: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlAuthenticationMode: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.LockContention: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlConnectAttrs: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlErrorCode: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlPacket: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlPool: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlPoolManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlStatementExecutedEventHandler: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlScriptErrorEventHandler: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ScriptStatement: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.UsageAdvisorWarningFlags: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlTraceEventType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.NativeDriver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlParameterConverter: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.PerformanceMonitor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.PreparableStatement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ProcedureCacheEntry: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ProcedureCache: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ReplicationConfigurationElement: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ReplicationServerGroupConfigurationElement: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ReplicationServerConfigurationElement: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.ResultSet: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.SchemaProvider: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Statement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.StoredProcedure: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.TableCache: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.TimedStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.TracingDriver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.MySqlTransaction: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Utils: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.X.XDevAPI.Common.ColumnType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.X.XDevAPI.Common.ColumnContentType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Replication.ReplicationManager: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Memcached.MemcachedFlags: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Interceptors.StandardExceptionInterceptor: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Common.NamedPipeStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.AuthenticationPluginManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.PluginInfo: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.AuthStage: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.Sha256AuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.Sha256MemoryAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.MySqlWindowsAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SecBufferDesc: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SecBufferType: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SecHandle: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SecBuffer: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SECURITY_INTEGER: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SECURITY_HANDLE: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for MySql.Data.MySqlClient.Authentication.SecPkgContext_Sizes: type is a value type.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>: type is sealed.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for <>f__AnonymousType0`2: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlPemReader+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.MysqlxReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.ClientMessages: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.ServerMessages: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Ok: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Error: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Sql.MysqlxSqlReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Sql.StmtExecute: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Sql.StmtExecuteOk: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Session.MysqlxSessionReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Session.AuthenticateStart: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Session.AuthenticateContinue: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Session.AuthenticateOk: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Session.Reset: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Session.Close: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.MysqlxResultsetReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.ContentType_BYTES: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.ContentType_DATETIME: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.FetchDoneMoreOutParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.FetchDoneMoreResultsets: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.FetchDone: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.ColumnMetaData: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Resultset.Row: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Notice.MysqlxNoticeReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Notice.Frame: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Notice.Warning: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Notice.SessionVariableChanged: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Notice.SessionStateChanged: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.MysqlxExprReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.Expr: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.Identifier: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.DocumentPathItem: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.ColumnIdentifier: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.FunctionCall: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.Operator: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.Object: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expr.Array: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expect.MysqlxExpectReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expect.Open: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Expect.Close: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Datatypes.MysqlxDatatypesReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Datatypes.Scalar: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Datatypes.Object: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Datatypes.Array: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Datatypes.Any: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.MysqlxCrudReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.DataModel: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.ViewAlgorithm: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.ViewSqlSecurity: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.ViewCheckOption: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Column: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Projection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Collection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Limit: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Order: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.UpdateOperation: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Find: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Insert: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Update: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.Delete: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.CreateView: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.ModifyView: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Crud.DropView: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Connection.MysqlxConnectionReflection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Connection.Capability: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Connection.Capabilities: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Connection.CapabilitiesGet: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Connection.CapabilitiesSet: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for Mysqlx.Connection.Close: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.BaseSession+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.SessionState: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.CRUD.CreateIndexParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.CRUD.CrudStatement`1+<GetDocs>d__1: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.CRUD.FindParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.CRUD.UpdateSpec: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.Common.BaseStatement`1+<ExecuteAsync>d__6: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.Common.FilterParams: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.XDevAPI.Common.QueryStatement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Sessions.InternalSession: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Sessions.QueueTaskScheduler: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Sessions.XInternalSession: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.RoutingServices.DefaultRoutingService: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.RoutingServices.RoutingServiceBase: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.ValueDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.XProtocol: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.BitDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.ByteDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.DecimalDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.NoticeType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.RowLock: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.XpluginStatementCommand: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.ExprParser: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.ExprUtil: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.ExprUnparser: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.FloatDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.IntegerDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.SetDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.XDateTimeDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.XTimeDecoder: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Protocol.X.XValueDecoderFactory: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Failover.FailoverGroup: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Failover.FailoverManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Failover.FailoverMethod: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Failover.SequentialFailoverGroup: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Failover.XServer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.DataAccess.ConnectionMode: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.DataAccess.AuthenticationMode: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.DataAccess.OS: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Data.CollationMap: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Communication.CommunicationPacket: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Communication.ClientMessageId: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Communication.ServerMessageId: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Communication.XPacketReaderWriter: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Common.Tools: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Security.ExternalAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Security.MySQL41AuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySqlX.Security.PlainAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Web.Security.Runtime: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Resources: type is compiler generated.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.ResourcesX: type is compiler generated.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MetaData: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlBinary: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlBit: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlByte: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlDouble: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlGuid: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlInt16: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlInt32: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlInt64: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlSingle: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlString: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlTimeSpan: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlUByte: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlUInt16: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlUInt32: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.MySqlUInt64: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Types.IMySqlValue: type is an interface.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.Cache`2: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.ContextString: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.LowResolutionStopwatch: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.MyNetworkStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.MySqlTokenizer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.NativeMethods: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.SharedMemory: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.SharedMemoryStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.Platform: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.QueryNormalizer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.Token: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.TokenType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.SHA1Hash: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.Ssl: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.StreamCreator: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.UnixEndPoint: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.Common.DBVersion: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlBulkLoaderPriority: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlBulkLoaderConflictOption: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.CharSetMap: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.CharacterSet: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlCommand+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlCommand+AsyncDelegate: type is a delegate.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.CompressedStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlInfoMessageEventHandler: type is a delegate.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.CommandTimer: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Crypt: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Driver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.IDriver: type is an interface.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ColumnFlags: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlField: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.SystemPerformanceMonitor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlRowUpdatingEventHandler: type is a delegate.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlRowUpdatedEventHandler: type is a delegate.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.GenericConfigurationElementCollection`1+<>c__DisplayClass2_0: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlHelper+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlHelper+CharClass: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlTransactionScope: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlPromotableTransaction: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.DriverTransactionManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.CommandInterceptor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Interceptor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ISSchemaProvider: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlConnectionStringBuilder+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlConnectionStringBuilder+<>c__DisplayClass200_0: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlConnectionStringOption: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlConnectionStringOptionCollection: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ClientFlags: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ServerStatusFlags: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.DBCmd: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlDbType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Field_Type: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlConnectionProtocol: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlSslMode: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlDriverType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlCertificateStoreLocation: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlAuthenticationMode: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.LockContention: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlConnectAttrs: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlErrorCode: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlPacket: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlPool: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlPoolManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlScript+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlStatementExecutedEventHandler: type is a delegate.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlScriptErrorEventHandler: type is a delegate.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ScriptStatement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlTrace+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.UsageAdvisorWarningFlags: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlTraceEventType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.NativeDriver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.MySqlParameterConverter: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.PerformanceMonitor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.PreparableStatement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ProcedureCacheEntry: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ProcedureCache: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.ResultSet: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.SchemaProvider: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Statement: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.StoredProcedure: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.TableCache: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.BaseTableCache+<>c: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.BaseTableCache+<>c__DisplayClass7_0: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.BaseTableCache+CacheEntry: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.TimedStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.TracingDriver: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Utils: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.X.XDevAPI.Common.ColumnType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.X.XDevAPI.Common.ColumnContentType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Replication.ReplicationManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Replication.ReplicationServerGroup+<>c__DisplayClass19_0: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Replication.ReplicationServerGroup+<>c__DisplayClass19_1: type is not supported because of internal limitations.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Memcached.BinaryClient+MagicByte: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Memcached.BinaryClient+OpCodes: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Memcached.BinaryClient+ResponseStatus: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Memcached.MemcachedFlags: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Interceptors.StandardExceptionInterceptor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Common.NamedPipeStream: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.AuthenticationPluginManager: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.PluginInfo: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.AuthStage: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.Sha256AuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.Sha256MemoryAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.MySqlWindowsAuthenticationPlugin: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.SecBufferDesc: type is not visible to exported or assembly(MySql.Data.8.0.11.0.Fakes).
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for MySql.Data.MySqlClient.Authentication.SecBufferType: type is an enum.
+C:\Users\Abhishek\Desktop\snap22\Snap\Snap\Fakes\MySql.Data.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>: type is not supported because of internal limitations.

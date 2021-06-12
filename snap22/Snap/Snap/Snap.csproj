@@ -1,0 +1,1402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C7D88D9-F492-4769-AC0F-4BD9C6A1F8CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Snap</RootNamespace>
+    <AssemblyName>Snap</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Abhishek\Desktop\Snap.Exe\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>31</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F0C6584DDAFA48420101F9C102107FB6F0A279E0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Snap_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>imageedit_1_5766849830_gzw_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accessiories forms\access_item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\access_item.Designer.cs">
+      <DependentUpon>access_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\acc_add_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\acc_add_stock.Designer.cs">
+      <DependentUpon>acc_add_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\all_product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\all_product.Designer.cs">
+      <DependentUpon>all_product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\approved_qc_item_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\approved_qc_item_list.Designer.cs">
+      <DependentUpon>approved_qc_item_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\costing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\costing.Designer.cs">
+      <DependentUpon>costing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\d_qc_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\d_qc_list.Designer.cs">
+      <DependentUpon>d_qc_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\d_return_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\d_return_list.Designer.cs">
+      <DependentUpon>d_return_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\final_qc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\final_qc.Designer.cs">
+      <DependentUpon>final_qc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\final_qc_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\final_qc_list.Designer.cs">
+      <DependentUpon>final_qc_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\grn_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\grn_cart.Designer.cs">
+      <DependentUpon>grn_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\grn_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\grn_list.Designer.cs">
+      <DependentUpon>grn_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\item_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\item_cart.Designer.cs">
+      <DependentUpon>item_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\item_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\item_issue.Designer.cs">
+      <DependentUpon>item_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\item_request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\item_request.Designer.cs">
+      <DependentUpon>item_request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\negative_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\negative_stock.Designer.cs">
+      <DependentUpon>negative_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\pending_to_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\pending_to_issue.Designer.cs">
+      <DependentUpon>pending_to_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\product_upload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\product_upload.Designer.cs">
+      <DependentUpon>product_upload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\p_return_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\p_return_cart.Designer.cs">
+      <DependentUpon>p_return_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\p_return_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\p_return_list.Designer.cs">
+      <DependentUpon>p_return_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\qc_check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\qc_check.Designer.cs">
+      <DependentUpon>qc_check.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\qc_parameter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\qc_parameter.Designer.cs">
+      <DependentUpon>qc_parameter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\qc_parameter_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\qc_parameter_list.Designer.cs">
+      <DependentUpon>qc_parameter_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\rejected_qc_item_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\rejected_qc_item_list.Designer.cs">
+      <DependentUpon>rejected_qc_item_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\request_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\request_list.Designer.cs">
+      <DependentUpon>request_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\style_costing_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\style_costing_list.Designer.cs">
+      <DependentUpon>style_costing_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\style_master_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\style_master_cart.Designer.cs">
+      <DependentUpon>style_master_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\style_master_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\style_master_list.Designer.cs">
+      <DependentUpon>style_master_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\style_pending_cons_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\style_pending_cons_list.Designer.cs">
+      <DependentUpon>style_pending_cons_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accessiories forms\view_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessiories forms\view_issue.Designer.cs">
+      <DependentUpon>view_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_fabric_comsumption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_fabric_comsumption.Designer.cs">
+      <DependentUpon>add_fabric_comsumption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_karigar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_karigar.Designer.cs">
+      <DependentUpon>add_karigar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="all_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="all_issue.Designer.cs">
+      <DependentUpon>all_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BARCODE\add_new.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BARCODE\add_new.Designer.cs">
+      <DependentUpon>add_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="batchcode_creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="batchcode_creation.Designer.cs">
+      <DependentUpon>batchcode_creation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="batchcode_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="batchcode_list.Designer.cs">
+      <DependentUpon>batchcode_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\add_mat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\add_mat.Designer.cs">
+      <DependentUpon>add_mat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\add_mat_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\add_mat_stock.Designer.cs">
+      <DependentUpon>add_mat_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\cmc_mat_stock_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\cmc_mat_stock_in.Designer.cs">
+      <DependentUpon>cmc_mat_stock_in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\cmc_mat_stock_out.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\cmc_mat_stock_out.Designer.cs">
+      <DependentUpon>cmc_mat_stock_out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\cmc_production_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\cmc_production_list.Designer.cs">
+      <DependentUpon>cmc_production_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\cmc_production_time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\cmc_production_time.Designer.cs">
+      <DependentUpon>cmc_production_time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\design_master_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\design_master_cart.Designer.cs">
+      <DependentUpon>design_master_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\design_master_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\design_master_list.Designer.cs">
+      <DependentUpon>design_master_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\mat_out_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\mat_out_list.Designer.cs">
+      <DependentUpon>mat_out_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\mat_stock_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\mat_stock_list.Designer.cs">
+      <DependentUpon>mat_stock_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\order_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\order_cart.Designer.cs">
+      <DependentUpon>order_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\order_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\order_list.Designer.cs">
+      <DependentUpon>order_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMC\update_order_status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMC\update_order_status.Designer.cs">
+      <DependentUpon>update_order_status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\emb_consumption_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\emb_consumption_list.Designer.cs">
+      <DependentUpon>emb_consumption_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\emb_consumption_pending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\emb_consumption_pending.Designer.cs">
+      <DependentUpon>emb_consumption_pending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\emb_master_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\emb_master_cart.Designer.cs">
+      <DependentUpon>emb_master_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\emb_master_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\emb_master_list.Designer.cs">
+      <DependentUpon>emb_master_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\emb_mat_consumption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\emb_mat_consumption.Designer.cs">
+      <DependentUpon>emb_mat_consumption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\garment_costing_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\garment_costing_cart.Designer.cs">
+      <DependentUpon>garment_costing_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\style_costing_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\style_costing_list.Designer.cs">
+      <DependentUpon>style_costing_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\style_master_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\style_master_cart.Designer.cs">
+      <DependentUpon>style_master_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\style_master_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\style_master_list.Designer.cs">
+      <DependentUpon>style_master_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costing\style_pending_consumption_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costing\style_pending_consumption_list.Designer.cs">
+      <DependentUpon>style_pending_consumption_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="department_return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="department_return.Designer.cs">
+      <DependentUpon>department_return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dpr_order_time_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dpr_order_time_view.Designer.cs">
+      <DependentUpon>dpr_order_time_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emb_inhouse_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emb_inhouse_List.Designer.cs">
+      <DependentUpon>emb_inhouse_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emb_outhouse_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emb_outhouse_list.Designer.cs">
+      <DependentUpon>emb_outhouse_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\approve_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\approve_list.Designer.cs">
+      <DependentUpon>approve_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\fabric_stock_summery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\fabric_stock_summery.Designer.cs">
+      <DependentUpon>fabric_stock_summery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\grn_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\grn_cart.Designer.cs">
+      <DependentUpon>grn_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\grn_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\grn_list.Designer.cs">
+      <DependentUpon>grn_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\issue.Designer.cs">
+      <DependentUpon>issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\issue_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\issue_list.Designer.cs">
+      <DependentUpon>issue_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\item_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\item_cart.Designer.cs">
+      <DependentUpon>item_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\item_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\item_list.Designer.cs">
+      <DependentUpon>item_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\pending_than_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\pending_than_list.Designer.cs">
+      <DependentUpon>pending_than_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\pending_to_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\pending_to_issue.Designer.cs">
+      <DependentUpon>pending_to_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\pending_to_qc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\pending_to_qc.Designer.cs">
+      <DependentUpon>pending_to_qc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\po_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\po_cart.Designer.cs">
+      <DependentUpon>po_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\purchase_order_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\purchase_order_list.Designer.cs">
+      <DependentUpon>purchase_order_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\p_code_wise_issue_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\p_code_wise_issue_view.Designer.cs">
+      <DependentUpon>p_code_wise_issue_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\qc_checking_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\qc_checking_cart.Designer.cs">
+      <DependentUpon>qc_checking_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\receive_than_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\receive_than_list.Designer.cs">
+      <DependentUpon>receive_than_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\reject_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\reject_list.Designer.cs">
+      <DependentUpon>reject_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\request_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\request_cart.Designer.cs">
+      <DependentUpon>request_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\than_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\than_details.Designer.cs">
+      <DependentUpon>than_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\than_generation_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\than_generation_cart.Designer.cs">
+      <DependentUpon>than_generation_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\than_sent_to_qc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\than_sent_to_qc.Designer.cs">
+      <DependentUpon>than_sent_to_qc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\vendor_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\vendor_cart.Designer.cs">
+      <DependentUpon>vendor_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric\vendor_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric\vendor_list.Designer.cs">
+      <DependentUpon>vendor_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fabric_request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fabric_request.Designer.cs">
+      <DependentUpon>fabric_request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\add_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\add_stock.Designer.cs">
+      <DependentUpon>add_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\category.Designer.cs">
+      <DependentUpon>category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\issue_item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\issue_item.Designer.cs">
+      <DependentUpon>issue_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\serial_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\serial_list.Designer.cs">
+      <DependentUpon>serial_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\stock_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\stock_list.Designer.cs">
+      <DependentUpon>stock_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\user_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\user_list.Designer.cs">
+      <DependentUpon>user_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabirc\issue_report_amount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabirc\issue_report_amount.Designer.cs">
+      <DependentUpon>issue_report_amount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabirc\issue_report_category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabirc\issue_report_category.Designer.cs">
+      <DependentUpon>issue_report_category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabirc\purchase_report_amount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabirc\purchase_report_amount.Designer.cs">
+      <DependentUpon>purchase_report_amount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="S_FABRIC\item_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_FABRIC\item_cart.Designer.cs">
+      <DependentUpon>item_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="S_FABRIC\item_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_FABRIC\item_list.Designer.cs">
+      <DependentUpon>item_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="S_FABRIC\vendor_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_FABRIC\vendor_cart.Designer.cs">
+      <DependentUpon>vendor_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="S_FABRIC\vendor_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_FABRIC\vendor_list.Designer.cs">
+      <DependentUpon>vendor_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_cart.Designer.cs">
+      <DependentUpon>user_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_list.Designer.cs">
+      <DependentUpon>user_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="grn_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grn_cart.Designer.cs">
+      <DependentUpon>grn_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="in-houser_emb_dpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="in-houser_emb_dpr.Designer.cs">
+      <DependentUpon>in-houser_emb_dpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inhouse_emb_receive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inhouse_emb_receive.Designer.cs">
+      <DependentUpon>inhouse_emb_receive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inhouse_order_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inhouse_order_cart.Designer.cs">
+      <DependentUpon>inhouse_order_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inhouse_order_entry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inhouse_order_entry.Designer.cs">
+      <DependentUpon>inhouse_order_entry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_item_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_item_cart.Designer.cs">
+      <DependentUpon>non_fabric_item_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="item_list_new.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="item_list_new.Designer.cs">
+      <DependentUpon>item_list_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kurta_all_product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kurta_all_product.Designer.cs">
+      <DependentUpon>kurta_all_product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kurta_product_entry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kurta_product_entry.Designer.cs">
+      <DependentUpon>kurta_product_entry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabirc_issue_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabirc_issue_view.Designer.cs">
+      <DependentUpon>non_fabirc_issue_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabirc_negative_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabirc_negative_stock.Designer.cs">
+      <DependentUpon>non_fabirc_negative_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabirc_receive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabirc_receive.Designer.cs">
+      <DependentUpon>non_fabirc_receive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_add_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_add_stock.Designer.cs">
+      <DependentUpon>non_fabric_add_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_d_return_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_d_return_list.Designer.cs">
+      <DependentUpon>non_fabric_d_return_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_issue.Designer.cs">
+      <DependentUpon>non_fabric_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_pending_to_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_pending_to_issue.Designer.cs">
+      <DependentUpon>non_fabric_pending_to_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_purchase_return_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_purchase_return_list.Designer.cs">
+      <DependentUpon>non_fabric_purchase_return_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_p_return_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_p_return_cart.Designer.cs">
+      <DependentUpon>non_fabric_p_return_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="non_fabric_request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="non_fabric_request.Designer.cs">
+      <DependentUpon>non_fabric_request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="onlynumber.cs" />
+    <Compile Include="outhouse_emb_receive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outhouse_emb_receive.Designer.cs">
+      <DependentUpon>outhouse_emb_receive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="outhouse_order_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outhouse_order_cart.Designer.cs">
+      <DependentUpon>outhouse_order_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parent.Designer.cs">
+      <DependentUpon>parent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product_code_viewcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_code_viewcs.Designer.cs">
+      <DependentUpon>product_code_viewcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product_code_wise_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_code_wise_issue.Designer.cs">
+      <DependentUpon>product_code_wise_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product_master_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_master_page.Designer.cs">
+      <DependentUpon>product_master_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product_status_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_status_view.Designer.cs">
+      <DependentUpon>product_status_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="replace_order_number.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="replace_order_number.Designer.cs">
+      <DependentUpon>replace_order_number.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Request_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Request_list.Designer.cs">
+      <DependentUpon>Request_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="style_consumption_fabric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="style_consumption_fabric.Designer.cs">
+      <DependentUpon>style_consumption_fabric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="style_consumption_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="style_consumption_list.Designer.cs">
+      <DependentUpon>style_consumption_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="style_master_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="style_master_cart.Designer.cs">
+      <DependentUpon>style_master_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="style_master_date.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="style_master_date.Designer.cs">
+      <DependentUpon>style_master_date.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_dpr_entry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_dpr_entry.Designer.cs">
+      <DependentUpon>update_dpr_entry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_product_status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_product_status.Designer.cs">
+      <DependentUpon>update_product_status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_login.Designer.cs">
+      <DependentUpon>user_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_cart.Designer.cs">
+      <DependentUpon>vendor_cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_list.Designer.cs">
+      <DependentUpon>vendor_list.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="accessiories forms\access_item.resx">
+      <DependentUpon>access_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\acc_add_stock.resx">
+      <DependentUpon>acc_add_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\all_product.resx">
+      <DependentUpon>all_product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\approved_qc_item_list.resx">
+      <DependentUpon>approved_qc_item_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\costing.resx">
+      <DependentUpon>costing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\d_qc_list.resx">
+      <DependentUpon>d_qc_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\d_return_list.resx">
+      <DependentUpon>d_return_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\final_qc.resx">
+      <DependentUpon>final_qc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\final_qc_list.resx">
+      <DependentUpon>final_qc_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\grn_cart.resx">
+      <DependentUpon>grn_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\grn_list.resx">
+      <DependentUpon>grn_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\item_cart.resx">
+      <DependentUpon>item_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\item_issue.resx">
+      <DependentUpon>item_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\item_request.resx">
+      <DependentUpon>item_request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\negative_stock.resx">
+      <DependentUpon>negative_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\pending_to_issue.resx">
+      <DependentUpon>pending_to_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\product_upload.resx">
+      <DependentUpon>product_upload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\p_return_cart.resx">
+      <DependentUpon>p_return_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\p_return_list.resx">
+      <DependentUpon>p_return_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\qc_check.resx">
+      <DependentUpon>qc_check.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\qc_parameter.resx">
+      <DependentUpon>qc_parameter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\qc_parameter_list.resx">
+      <DependentUpon>qc_parameter_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\rejected_qc_item_list.resx">
+      <DependentUpon>rejected_qc_item_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\request_list.resx">
+      <DependentUpon>request_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\style_costing_list.resx">
+      <DependentUpon>style_costing_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\style_master_cart.resx">
+      <DependentUpon>style_master_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\style_master_list.resx">
+      <DependentUpon>style_master_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\style_pending_cons_list.resx">
+      <DependentUpon>style_pending_cons_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessiories forms\view_issue.resx">
+      <DependentUpon>view_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_fabric_comsumption.resx">
+      <DependentUpon>add_fabric_comsumption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_karigar.resx">
+      <DependentUpon>add_karigar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="all_issue.resx">
+      <DependentUpon>all_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BARCODE\add_new.resx">
+      <DependentUpon>add_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="batchcode_creation.resx">
+      <DependentUpon>batchcode_creation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="batchcode_list.resx">
+      <DependentUpon>batchcode_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\add_mat.resx">
+      <DependentUpon>add_mat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\add_mat_stock.resx">
+      <DependentUpon>add_mat_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\cmc_mat_stock_in.resx">
+      <DependentUpon>cmc_mat_stock_in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\cmc_mat_stock_out.resx">
+      <DependentUpon>cmc_mat_stock_out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\cmc_production_list.resx">
+      <DependentUpon>cmc_production_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\cmc_production_time.resx">
+      <DependentUpon>cmc_production_time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\design_master_cart.resx">
+      <DependentUpon>design_master_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\design_master_list.resx">
+      <DependentUpon>design_master_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\mat_out_list.resx">
+      <DependentUpon>mat_out_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\mat_stock_list.resx">
+      <DependentUpon>mat_stock_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\order_cart.resx">
+      <DependentUpon>order_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\order_list.resx">
+      <DependentUpon>order_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMC\update_order_status.resx">
+      <DependentUpon>update_order_status.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\emb_consumption_list.resx">
+      <DependentUpon>emb_consumption_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\emb_consumption_pending.resx">
+      <DependentUpon>emb_consumption_pending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\emb_master_cart.resx">
+      <DependentUpon>emb_master_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\emb_master_list.resx">
+      <DependentUpon>emb_master_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\emb_mat_consumption.resx">
+      <DependentUpon>emb_mat_consumption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\garment_costing_cart.resx">
+      <DependentUpon>garment_costing_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\style_costing_list.resx">
+      <DependentUpon>style_costing_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\style_master_cart.resx">
+      <DependentUpon>style_master_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\style_master_list.resx">
+      <DependentUpon>style_master_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costing\style_pending_consumption_list.resx">
+      <DependentUpon>style_pending_consumption_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="department_return.resx">
+      <DependentUpon>department_return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dpr_order_time_view.resx">
+      <DependentUpon>dpr_order_time_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emb_inhouse_List.resx">
+      <DependentUpon>emb_inhouse_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emb_outhouse_list.resx">
+      <DependentUpon>emb_outhouse_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\approve_list.resx">
+      <DependentUpon>approve_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\fabric_stock_summery.resx">
+      <DependentUpon>fabric_stock_summery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\grn_cart.resx">
+      <DependentUpon>grn_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\grn_list.resx">
+      <DependentUpon>grn_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\issue.resx">
+      <DependentUpon>issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\issue_list.resx">
+      <DependentUpon>issue_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\item_cart.resx">
+      <DependentUpon>item_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\item_list.resx">
+      <DependentUpon>item_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\pending_than_list.resx">
+      <DependentUpon>pending_than_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\pending_to_issue.resx">
+      <DependentUpon>pending_to_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\pending_to_qc.resx">
+      <DependentUpon>pending_to_qc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\po_cart.resx">
+      <DependentUpon>po_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\purchase_order_list.resx">
+      <DependentUpon>purchase_order_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\p_code_wise_issue_view.resx">
+      <DependentUpon>p_code_wise_issue_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\qc_checking_cart.resx">
+      <DependentUpon>qc_checking_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\receive_than_list.resx">
+      <DependentUpon>receive_than_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\reject_list.resx">
+      <DependentUpon>reject_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\request_cart.resx">
+      <DependentUpon>request_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\than_details.resx">
+      <DependentUpon>than_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\than_generation_cart.resx">
+      <DependentUpon>than_generation_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\than_sent_to_qc.resx">
+      <DependentUpon>than_sent_to_qc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\vendor_cart.resx">
+      <DependentUpon>vendor_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric\vendor_list.resx">
+      <DependentUpon>vendor_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fabric_request.resx">
+      <DependentUpon>fabric_request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\add_stock.resx">
+      <DependentUpon>add_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\category.resx">
+      <DependentUpon>category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\issue_item.resx">
+      <DependentUpon>issue_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\serial_list.resx">
+      <DependentUpon>serial_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\stock_list.resx">
+      <DependentUpon>stock_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\user_list.resx">
+      <DependentUpon>user_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabirc\issue_report_amount.resx">
+      <DependentUpon>issue_report_amount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabirc\issue_report_category.resx">
+      <DependentUpon>issue_report_category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabirc\purchase_report_amount.resx">
+      <DependentUpon>purchase_report_amount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_FABRIC\item_cart.resx">
+      <DependentUpon>item_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_FABRIC\item_list.resx">
+      <DependentUpon>item_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_FABRIC\vendor_cart.resx">
+      <DependentUpon>vendor_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_cart.resx">
+      <DependentUpon>user_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_list.resx">
+      <DependentUpon>user_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grn_cart.resx">
+      <DependentUpon>grn_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="in-houser_emb_dpr.resx">
+      <DependentUpon>in-houser_emb_dpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inhouse_emb_receive.resx">
+      <DependentUpon>inhouse_emb_receive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inhouse_order_cart.resx">
+      <DependentUpon>inhouse_order_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inhouse_order_entry.resx">
+      <DependentUpon>inhouse_order_entry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_item_cart.resx">
+      <DependentUpon>non_fabric_item_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="item_list_new.resx">
+      <DependentUpon>item_list_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kurta_all_product.resx">
+      <DependentUpon>kurta_all_product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kurta_product_entry.resx">
+      <DependentUpon>kurta_product_entry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabirc_issue_view.resx">
+      <DependentUpon>non_fabirc_issue_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabirc_negative_stock.resx">
+      <DependentUpon>non_fabirc_negative_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabirc_receive.resx">
+      <DependentUpon>non_fabirc_receive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_add_stock.resx">
+      <DependentUpon>non_fabric_add_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_d_return_list.resx">
+      <DependentUpon>non_fabric_d_return_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_issue.resx">
+      <DependentUpon>non_fabric_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_pending_to_issue.resx">
+      <DependentUpon>non_fabric_pending_to_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_purchase_return_list.resx">
+      <DependentUpon>non_fabric_purchase_return_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_p_return_cart.resx">
+      <DependentUpon>non_fabric_p_return_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="non_fabric_request.resx">
+      <DependentUpon>non_fabric_request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outhouse_emb_receive.resx">
+      <DependentUpon>outhouse_emb_receive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outhouse_order_cart.resx">
+      <DependentUpon>outhouse_order_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parent.resx">
+      <DependentUpon>parent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_code_viewcs.resx">
+      <DependentUpon>product_code_viewcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_code_wise_issue.resx">
+      <DependentUpon>product_code_wise_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_master_page.resx">
+      <DependentUpon>product_master_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_status_view.resx">
+      <DependentUpon>product_status_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="replace_order_number.resx">
+      <DependentUpon>replace_order_number.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Request_list.resx">
+      <DependentUpon>Request_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="style_consumption_fabric.resx">
+      <DependentUpon>style_consumption_fabric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="style_consumption_list.resx">
+      <DependentUpon>style_consumption_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="style_master_cart.resx">
+      <DependentUpon>style_master_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="style_master_date.resx">
+      <DependentUpon>style_master_date.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_dpr_entry.resx">
+      <DependentUpon>update_dpr_entry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_product_status.resx">
+      <DependentUpon>update_product_status.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_login.resx">
+      <DependentUpon>user_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_cart.resx">
+      <DependentUpon>vendor_cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_list.resx">
+      <DependentUpon>vendor_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="MySql.Data.Resources.datasource" />
+    <None Include="MySql.Data.ResourcesX.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Snap_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aAqF8kT2WpZyxq8VD8yn2eKrb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imageedit_1_5766849830_gzw_icon.ico" />
+    <Content Include="Snap.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
